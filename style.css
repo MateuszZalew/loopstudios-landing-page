@@ -349,6 +349,10 @@ footer {
     text-align: center;
   }
 
+  .relative > picture > img {
+    width: 327px;
+  }
+
   .gallery {
     display: flex;
     flex-wrap: wrap;
